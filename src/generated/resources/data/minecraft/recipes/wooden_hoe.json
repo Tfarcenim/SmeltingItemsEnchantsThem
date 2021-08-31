@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:wooden_hoe"
+  },
+  "result": "minecraft:wooden_hoe",
+  "experience": 0.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:netherite_axe"
+  },
+  "result": "minecraft:netherite_axe",
+  "experience": 0.0,
+  "cookingtime": 200
+}

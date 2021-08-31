@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": "minecraft:netherite_shovel",
+  "experience": 0.0,
+  "cookingtime": 200
+}

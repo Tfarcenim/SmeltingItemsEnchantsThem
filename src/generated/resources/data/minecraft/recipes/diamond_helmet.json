@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "result": "minecraft:diamond_helmet",
+  "experience": 0.0,
+  "cookingtime": 200
+}

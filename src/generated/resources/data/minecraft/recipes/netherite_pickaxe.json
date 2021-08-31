@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "result": "minecraft:netherite_pickaxe",
+  "experience": 0.0,
+  "cookingtime": 200
+}

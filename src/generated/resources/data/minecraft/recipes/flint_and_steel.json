@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:flint_and_steel"
+  },
+  "result": "minecraft:flint_and_steel",
+  "experience": 0.0,
+  "cookingtime": 200
+}

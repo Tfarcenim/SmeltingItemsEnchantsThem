@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:diamond_hoe"
+    ]
+  },
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_hoe"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:diamond_hoe"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_tool",
+      "has_the_recipe"
+    ]
+  ]
+}

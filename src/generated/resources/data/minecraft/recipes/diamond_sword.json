@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:diamond_sword"
+  },
+  "result": "minecraft:diamond_sword",
+  "experience": 0.0,
+  "cookingtime": 200
+}

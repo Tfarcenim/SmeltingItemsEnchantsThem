@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:elytra"
+  },
+  "result": "minecraft:elytra",
+  "experience": 0.0,
+  "cookingtime": 200
+}

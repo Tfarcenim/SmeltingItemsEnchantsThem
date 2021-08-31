@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:shears"
+  },
+  "result": "minecraft:shears",
+  "experience": 0.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "tfar.smeltingitemsenchantsthem.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "smeltingitemsenchantsthem.refmap.json",
+  "mixins": [
+    "AbstractCookingRecipeMixin"
+  ],
+  "client":[
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:chainmail_helmet"
+  },
+  "result": "minecraft:chainmail_helmet",
+  "experience": 0.0,
+  "cookingtime": 200
+}

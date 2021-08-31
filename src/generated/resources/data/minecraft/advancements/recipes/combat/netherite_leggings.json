@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:netherite_leggings"
+    ]
+  },
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:netherite_leggings"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:netherite_leggings"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_tool",
+      "has_the_recipe"
+    ]
+  ]
+}

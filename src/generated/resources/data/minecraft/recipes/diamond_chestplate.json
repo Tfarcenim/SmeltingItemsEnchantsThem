@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "result": "minecraft:diamond_chestplate",
+  "experience": 0.0,
+  "cookingtime": 200
+}

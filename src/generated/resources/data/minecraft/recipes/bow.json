@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:bow"
+  },
+  "result": "minecraft:bow",
+  "experience": 0.0,
+  "cookingtime": 200
+}

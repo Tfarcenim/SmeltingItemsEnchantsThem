@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "result": "minecraft:netherite_leggings",
+  "experience": 0.0,
+  "cookingtime": 200
+}

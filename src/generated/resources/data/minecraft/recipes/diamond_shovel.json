@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "result": "minecraft:diamond_shovel",
+  "experience": 0.0,
+  "cookingtime": 200
+}

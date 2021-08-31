@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:turtle_helmet"
+  },
+  "result": "minecraft:turtle_helmet",
+  "experience": 0.0,
+  "cookingtime": 200
+}

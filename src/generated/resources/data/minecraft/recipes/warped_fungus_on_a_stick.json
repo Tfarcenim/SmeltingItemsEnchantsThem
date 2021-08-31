@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:warped_fungus_on_a_stick"
+  },
+  "result": "minecraft:warped_fungus_on_a_stick",
+  "experience": 0.0,
+  "cookingtime": 200
+}

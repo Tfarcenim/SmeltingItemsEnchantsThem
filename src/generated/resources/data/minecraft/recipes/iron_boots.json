@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:iron_boots"
+  },
+  "result": "minecraft:iron_boots",
+  "experience": 0.0,
+  "cookingtime": 200
+}

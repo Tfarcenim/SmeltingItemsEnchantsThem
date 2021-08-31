@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:netherite_sword"
+  },
+  "result": "minecraft:netherite_sword",
+  "experience": 0.0,
+  "cookingtime": 200
+}

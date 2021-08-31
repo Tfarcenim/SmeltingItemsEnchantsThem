@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:iron_axe"
+  },
+  "result": "minecraft:iron_axe",
+  "experience": 0.0,
+  "cookingtime": 200
+}

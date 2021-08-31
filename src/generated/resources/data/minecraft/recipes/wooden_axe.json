@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:wooden_axe"
+  },
+  "result": "minecraft:wooden_axe",
+  "experience": 0.0,
+  "cookingtime": 200
+}

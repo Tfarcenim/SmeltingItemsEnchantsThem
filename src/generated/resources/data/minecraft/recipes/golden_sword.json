@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:golden_sword"
+  },
+  "result": "minecraft:golden_sword",
+  "experience": 0.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "result": "minecraft:wooden_pickaxe",
+  "experience": 0.0,
+  "cookingtime": 200
+}

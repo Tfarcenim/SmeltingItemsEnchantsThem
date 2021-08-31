@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:crossbow"
+  },
+  "result": "minecraft:crossbow",
+  "experience": 0.0,
+  "cookingtime": 200
+}

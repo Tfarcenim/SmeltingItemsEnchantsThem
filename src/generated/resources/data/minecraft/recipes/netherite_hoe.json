@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "result": "minecraft:netherite_hoe",
+  "experience": 0.0,
+  "cookingtime": 200
+}

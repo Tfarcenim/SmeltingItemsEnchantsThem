@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:fishing_rod"
+  },
+  "result": "minecraft:fishing_rod",
+  "experience": 0.0,
+  "cookingtime": 200
+}

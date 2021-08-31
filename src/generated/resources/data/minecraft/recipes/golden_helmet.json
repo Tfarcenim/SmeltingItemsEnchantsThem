@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:golden_helmet"
+  },
+  "result": "minecraft:golden_helmet",
+  "experience": 0.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:golden_leggings"
+  },
+  "result": "minecraft:golden_leggings",
+  "experience": 0.0,
+  "cookingtime": 200
+}
